@@ -24,12 +24,14 @@ Clone the repository and install dependencies:
 git clone https://github.com/YOUR-USERNAME/saintscan.git
 cd saintscan
 pip install -r requirements.txt
+```
 
 ## 🚀 Usage
 - Run with CLI arguments:
 
 ```bash
 python main.py --url https://target.com --depth 2 --json reports/target.json --csv reports/targets.csv
+```
 
 ## ⚖️ Ethics & Safety Disclaimer
 - This tool is intended for educational purposes only
